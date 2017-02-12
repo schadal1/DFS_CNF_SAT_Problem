@@ -1,0 +1,14 @@
+Sollution is: 
+ x[1] = 0
+ x[2] = 1
+ x[3] = 0
+Sollution is: 
+ x[1] = 0
+ x[2] = 0
+ x[3] = 1
+Sollution is: 
+ x[1] = 0
+ x[2] = 0
+ x[3] = 0
+
+The Run time is 0.0 milli seconds
